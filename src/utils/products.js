@@ -93,7 +93,7 @@ export const discoutProducts = [
     productName: "Comfortable Velvet Sofa",
     imgUrl: productImg01, // Ensure the image reflects the actual product
     category: "sofa",
-    price: 199.99,
+    price: 19900,
     discount: 30,
     shortDesc: "A stylish and cozy velvet sofa perfect for any living room.",
     description:
@@ -111,7 +111,7 @@ export const discoutProducts = [
     productName: "Modern Leather Sofa",
     imgUrl: productImg02,
     category: "sofa",
-    price: 250,
+    price: 25000,
     discount: 20,
     shortDesc: "Sleek leather design with exceptional durability.",
     description:
@@ -129,7 +129,7 @@ export const discoutProducts = [
     productName: "Ergonomic Office Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 120,
+    price: 1200,
     discount: 15,
     shortDesc:
       "Stay comfortable during long hours with our ergonomic office chair.",
@@ -148,7 +148,7 @@ export const discoutProducts = [
     productName: "Gaming Chair with RGB Lighting",
     imgUrl: productImg09,
     category: "chair",
-    price: 199,
+    price: 1999,
     discount: 35,
     shortDesc: "Take your gaming experience to the next level with RGB lights.",
     description:
@@ -166,7 +166,7 @@ export const discoutProducts = [
     productName: "Smartphone Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price: 5999,
     discount: 10,
     shortDesc: "Advanced smartphone with cutting-edge features.",
     description:
@@ -184,7 +184,7 @@ export const discoutProducts = [
     productName: "OnePlus Nord 2 5G",
     imgUrl: phone04,
     category: "mobile",
-    price: 749,
+    price: 7499,
     discount: 5,
     shortDesc: "Powerful 5G smartphone with amazing features.",
     description:
@@ -207,7 +207,7 @@ export const products = [
     productName: "Stone and Beam Westview Sofa",
     imgUrl: productImg01,
     category: "Sofa",
-    price: 193.0,
+    price: 19300,
     shortDesc:
       "Modern, comfortable, and durable sofa perfect for any living room.",
     description:
@@ -225,7 +225,7 @@ export const products = [
     productName: "Rivet Bigelow Modern Sofa",
     imgUrl: productImg02,
     category: "Sofa",
-    price: 253.0,
+    price: 25300,
     shortDesc: "A stylish, mid-century modern sofa with plush cushions.",
     description:
       "The Rivet Bigelow Modern sofa blends a mid-century modern design with plush cushions for added comfort. A great fit for contemporary homes.",
@@ -246,7 +246,7 @@ export const products = [
     productName: "Amazon Brand Modern Sofa",
     imgUrl: productImg03,
     category: "Sofa",
-    price: 173.0,
+    price: 1730,
     shortDesc: "Affordable, stylish, and comfy sofa for any modern home.",
     description:
       "This Amazon Brand Modern Sofa offers a chic design at an affordable price. Its durable build and soft cushions provide both style and comfort.",
@@ -267,7 +267,7 @@ export const products = [
     productName: "Fluffy Sheep Sofa",
     imgUrl: productImg04,
     category: "Sofa",
-    price: 163.0,
+    price: 16300,
     shortDesc: "A cozy and luxurious sofa with plush, soft cushioning.",
     description:
       "The Fluffy Sheep Sofa is designed for maximum comfort. Featuring high-quality, soft fabric, it offers a luxurious feel at an affordable price.",
@@ -288,7 +288,7 @@ export const products = [
     productName: "Faux Velvet Sofa",
     imgUrl: productImg05,
     category: "Sofa",
-    price: 163.0,
+    price: 16300,
     shortDesc: "Elegant velvet sofa with a modern, chic design.",
     description:
       "This Faux Velvet Sofa features a sleek, modern design with a luxurious velvet finish. It’s perfect for adding elegance and comfort to any room.",
@@ -309,7 +309,7 @@ export const products = [
     productName: "Fluffy Sheep Sofa",
     imgUrl: productImg06,
     category: "Sofa",
-    price: 163.0,
+    price: 16300,
     shortDesc: "Extra soft and cozy, perfect for relaxing.",
     description:
       "The Fluffy Sheep Sofa combines plush softness and comfort with modern design. Ideal for any space where relaxation is key.",
@@ -331,7 +331,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg07,
     category: "chair",
-    price: 99,
+    price: 9900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -354,7 +354,7 @@ export const products = [
     productName: "Modern Arm Sofa",
     imgUrl: productImg007,
     category: "sofa",
-    price: 173,
+    price: 1730,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -377,7 +377,7 @@ export const products = [
     productName: "Baltsar Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 89,
+    price: 8900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -400,7 +400,7 @@ export const products = [
     productName: "Helmar Chair",
     imgUrl: productImg09,
     category: "chair",
-    price: 112,
+    price: 11200,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -423,7 +423,7 @@ export const products = [
     productName: "Apple iPhone 12 Pro",
     imgUrl: phone01,
     category: "mobile",
-    price: 799,
+    price: 7900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -445,7 +445,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg10,
     category: "chair",
-    price: 99,
+    price: 9900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -467,7 +467,7 @@ export const products = [
     productName: "Apple iPhone 12 Max",
     imgUrl: phone02,
     category: "mobile",
-    price: 799,
+    price: 7990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -490,7 +490,7 @@ export const products = [
     productName: "Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price: 5990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -513,7 +513,7 @@ export const products = [
     productName: "One Plus Nord",
     imgUrl: phone04,
     category: "mobile",
-    price: 799,
+    price: 7990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -536,7 +536,7 @@ export const products = [
     productName: "Apple iPhone 13 Pro",
     imgUrl: phone05,
     category: "mobile",
-    price: 899,
+    price: 8990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -559,7 +559,7 @@ export const products = [
     productName: "Samsung Galaxy S22",
     imgUrl: phone06,
     category: "mobile",
-    price: 699,
+    price: 6990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -582,7 +582,7 @@ export const products = [
     productName: "Rolex Watch",
     imgUrl: watch01,
     category: "watch",
-    price: 299,
+    price: 2990,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
